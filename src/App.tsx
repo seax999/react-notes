@@ -1,7 +1,9 @@
+import React from 'react';
+
 function App() {
   return (
     <div className="App">
-      <h1>this is demo</h1>
+      this is ts demo
     </div>
   );
 }
