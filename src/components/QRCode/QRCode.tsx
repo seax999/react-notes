@@ -1,6 +1,6 @@
 import React from 'react';
 import QRCode from 'qrcode.react'
-import * as logn from './logn.png'
+import logo from './logo.jpg'
 import './qrcode.css'
 
 interface props {
@@ -34,23 +34,24 @@ const QrCode = (props: any) => {
         imageSettings
     } = props;
     return (
-        <div className="className">
-            <img src={'./logn.png'}/>
-            <QRCode
-                value = {"https://www.logosc.cn/logo/"}
-                size={400}
-                renderAs={'canvas'}
-                bgColor={'#fff'}
-                fgColor={'#000'}
-                level={'H'}
-                includeMargin={false}
-                imageSettings={{
-                    src: logn,
-                    width: 60,
-                    height: 60,
-                    excavate: true
-                }}
-            />
+        <div className="qrcode">
+            <div className="qrcode-content">
+                <QRCode
+                    value = {"https://www.logosc.cn/logo/"}
+                    size={400}
+                    renderAs={'canvas'}
+                    bgColor={'#fff'}
+                    fgColor={'#000'}
+                    level={'H'}
+                    includeMargin={false}
+                    imageSettings={{
+                        src: logo,
+                        width: 100,
+                        height: 100,
+                        excavate: true
+                    }}
+                />
+            </div>
         </div>
     );
 };

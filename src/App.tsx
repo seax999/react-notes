@@ -1,5 +1,5 @@
 import React from 'react';
-import './static/style/App.css'
+import './App.css'
 import { QRCode } from './components'
 
 function App() {
