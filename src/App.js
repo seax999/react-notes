@@ -1,6 +1,6 @@
-import { HooksApi, DemoState, Qrcode } from './components'
+import { HooksApi, DemoState } from './components'
 import QRCode from 'qrcode.react'
-import image from './images/image.jpg'
+import logo from './images/logo.jpg'
 // import QRCode from "qrcode";
 import {useEffect} from "react";
 
@@ -38,9 +38,9 @@ function App() {
               style={{margin: 'auto'}}
               // includeMargin = {true}
               imageSettings={{
-                  src: image,
-                  height: 60,
-                  width: 60,
+                  src: logo,
+                  height: 80,
+                  width: 80,
                   excavate: true,
 
               }}
