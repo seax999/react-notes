@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./App.css";
-import { QRCode, MobileRem } from "./components";
+import { QRCode, MobileRem, MapAndObj } from "./components";
 import { isPhone, remAndFontSize } from "./utils/common";
 
 function App() {
@@ -17,7 +17,8 @@ function App() {
             ) : (
                 <div className="App">
                     this is ts mobile demo
-                    <QRCode />
+                    {/*<QRCode />*/}
+                    <MapAndObj />
                 </div>
             )}
         </React.Fragment>
