@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b63da5a-0635-4991-a65c-30bf60694b56" name="变更" comment="dosc: map 和 object 对比记录" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="README" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hooks_20220611" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2APSlM3ZbuO4RzIzgmjDC7trUPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/TypeScript/my-app",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\deskTop\\react-notes\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "ts.external.directory.path": "D:\\deskTop\\react-notes\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\deskTop\react-notes\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\deskTop\react-notes\src\" />
+      <recent name="D:\deskTop\react-notes\src\components\QRCode" />
+      <recent name="D:\deskTop\react-notes\src\static\style" />
+      <recent name="D:\deskTop\react-notes\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7b63da5a-0635-4991-a65c-30bf60694b56" name="变更" comment="" />
+      <created>1654909877357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654909877357</updated>
+      <workItem from="1654909879723" duration="27358000" />
+      <workItem from="1655127460733" duration="2547000" />
+      <workItem from="1655130228841" duration="2002000" />
+      <workItem from="1655297076356" duration="2564000" />
+      <workItem from="1655299947511" duration="1597000" />
+      <workItem from="1655301841719" duration="122000" />
+      <workItem from="1655301965889" duration="1283000" />
+      <workItem from="1655303266387" duration="547000" />
+      <workItem from="1655303825386" duration="713000" />
+      <workItem from="1655306731397" duration="692000" />
+      <workItem from="1655513267967" duration="740000" />
+      <workItem from="1655514022078" duration="21030000" />
+      <workItem from="1655566309071" duration="4232000" />
+      <workItem from="1656167522858" duration="610000" />
+      <workItem from="1656259543668" duration="41000" />
+      <workItem from="1656760514575" duration="57000" />
+      <workItem from="1657382398379" duration="19000" />
+      <workItem from="1657382424512" duration="613000" />
+      <workItem from="1657383840636" duration="769000" />
+      <workItem from="1657445336444" duration="17000" />
+      <workItem from="1659108301356" duration="40000" />
+      <workItem from="1659108350252" duration="1381000" />
+      <workItem from="1659113297044" duration="22000" />
+      <workItem from="1659275299389" duration="32000" />
+    </task>
+    <task id="LOCAL-00001" summary="pro init">
+      <created>1654910742228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654910742228</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: hooks api commit">
+      <created>1655034027701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655034027701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: react.qrcode add">
+      <created>1655298872540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655298872540</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: react.qrcode 补充提交">
+      <created>1655299276481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655299276481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ts 劝退">
+      <created>1655304111357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655304111357</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dosc: qrcode 完善">
+      <created>1655513470531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655513470531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dosc: ts 二维码完善">
+      <created>1655514855121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655514855121</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dosc: ts prettier 配置和rem的适配记录">
+      <created>1655543470932</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655543470932</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dosc: ts 格式化配置文件">
+      <created>1655566112197</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655566112197</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dosc: utils 修改">
+      <created>1655566153924</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655566153925</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dosc: utils 修改补交">
+      <created>1655566246223</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655566246223</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dosc: map 和 object 对比记录">
+      <created>1655569328822</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655569328822</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="pro init" />
+    <MESSAGE value="docs: hooks api commit" />
+    <MESSAGE value="docs: react.qrcode add" />
+    <MESSAGE value="docs: react.qrcode 补充提交" />
+    <MESSAGE value="ts 劝退" />
+    <MESSAGE value="dosc: qrcode 完善" />
+    <MESSAGE value="dosc: ts 二维码完善" />
+    <MESSAGE value="dosc: ts prettier 配置和rem的适配记录" />
+    <MESSAGE value="dosc: ts 格式化配置文件" />
+    <MESSAGE value="dosc: utils 修改" />
+    <MESSAGE value="dosc: utils 修改补交" />
+    <MESSAGE value="dosc: map 和 object 对比记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="dosc: map 和 object 对比记录" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="react-notes" type="b2602c69:ProjectViewProjectNode" />
+        <item name="react-notes" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
